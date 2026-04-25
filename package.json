@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "express-session": "^1.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.19.4",
+    "nocache": "^4.0.0"
+  }
+}
